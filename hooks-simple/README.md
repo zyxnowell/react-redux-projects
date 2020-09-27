@@ -2,6 +2,8 @@
 
 This is a simple app meant to demonstrate how hooks in react works.
 
+more info on hooks: https://reactjs.org/docs/hooks-intro.html
+
 ## About
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
